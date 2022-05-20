@@ -1,0 +1,12 @@
+LINUX
+ All basics of Linux
+ How to create files, dir, and groups
+ How to change permissions of files, dir, and groups How to create users
+ Ssh
+ Scp
+ Winscp
+ Scp
+ Crontab
+ Passwordless authentication
+ Working with services
+ Most use full commands like cp, mv, tar, yum, rpm, wget, rm, find, etc…
